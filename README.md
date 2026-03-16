@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Jason Martinez</h1>
 
-<!--
-**Jason-Martinez/Jason-Martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering student
+🚀 Interested in **low-level programming, software development, and game development**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+💻 Computer Engineering student <br>
+🚀 Interested in <b>low-level programming, software development, and game development</b>
+</p>
+
+---
+
+## ♟️ Currently Working On
+
+A **chess game developed in Assembly (ASM)**.
+
+---
+
+## 🧠 Technologies I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode"/>
+</p>
+
+* Python
+* C++
+* Java
+* Assembly (MASM)
+* Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+* Computer Architecture
+* Data Structures
+* Object-Oriented Programming
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: https://linkedin.com/in/jason-rene-martinez-gutierrez
+
+Instagram: https://instagram.com/j.martinezg03
+
+Email: [jrmartgu05@gmail.com](mailto:jrmartgu05@gmail.com)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jason-Martinez&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Martinez&layout=compact"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🎮 **Space Shooter** – Game developed with **Python and Pygame**
+
+💣 **Bomberman** – Game developed with **Python, Pygame, and Object-Oriented Programming**
