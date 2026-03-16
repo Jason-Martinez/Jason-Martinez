@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jason Martinez</h1>
 
-💻 Computer Engineering student
-🚀 Interested in **low-level programming, software development, and game development**
-
-
-
 <p align="center">
 💻 Computer Engineering student <br>
 🚀 Interested in <b>low-level programming, software development, and game development</b>
@@ -42,11 +37,21 @@ A **chess game developed in Assembly (ASM)**.
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/jason-rene-martinez-gutierrez
+<p align="center">
 
-Instagram: https://instagram.com/j.martinezg03
+<a href="https://linkedin.com/in/jason-rene-martinez-gutierrez-54b3b2315">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Email: [jrmartgu05@gmail.com](mailto:jrmartgu05@gmail.com)
+<a href="https://instagram.com/j.martinezg03">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:jrmartgu05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
